@@ -1,0 +1,10 @@
+country,customers,revenue,revenue_share_pct,customer_share_pct,value_index,top_customer_pct
+Czech Republic,2,90.24,3.9,3.4,1.14,55.0
+USA,13,523.06,22.5,22.0,1.02,9.1
+Germany,4,156.48,6.7,6.8,0.99,27.9
+France,5,195.1,8.4,8.5,0.99,20.8
+Portugal,2,77.24,3.3,3.4,0.98,51.3
+Canada,8,303.96,13.1,13.6,0.96,13.0
+Brazil,5,190.1,8.2,8.5,0.96,20.8
+United Kingdom,3,112.86,4.8,5.1,0.95,33.3
+India,2,75.26,3.2,3.4,0.95,51.3

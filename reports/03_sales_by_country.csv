@@ -1,0 +1,11 @@
+country,customers,total_sales,sales_per_customer,avg_order_value
+USA,13,523.06,40.24,5.75
+Canada,8,303.96,37.99,5.43
+France,5,195.1,39.02,5.57
+Brazil,5,190.1,38.02,5.43
+Germany,4,156.48,39.12,5.59
+United Kingdom,3,112.86,37.62,5.37
+Czech Republic,2,90.24,45.12,6.45
+Portugal,2,77.24,38.62,5.52
+India,2,75.26,37.63,5.79
+Other,15,604.3,40.29,5.76
